@@ -1,16 +1,16 @@
 .Insertbase {
     background-image: url(../image/ATN STORE.png);
-    height: 100vh;
+    height: 20px;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .Insertbase h1 {
-    color: #ffffff;
+    color: black;
 }
 
 .Insertbase h2 {
-    color: #ffffff;
+    color: black;
 }
 
 .Insertbase li {
