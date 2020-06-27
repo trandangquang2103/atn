@@ -180,7 +180,7 @@
                     <h4>Gọi đặt hàng:</h4>
                     <h4>Gọi CSKH & Khiếu nại:</h4>
                     <h4>Gọi bảo hành & Kỹ thuật:</h4>
-                    <h4>Tuyển dụng :03365665 </h3>
+                    <h4>Tuyển dụng :03365665 </h4>
                 </div>
                 <div class="sdt1">
                     <h4>1900 1111</h4>
